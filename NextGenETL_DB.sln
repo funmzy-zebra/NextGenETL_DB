@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29709.97
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "NextGenETL_DB", "NextGenETL_DB\NextGenETL_DB.sqlproj", "{81BDD4B6-9DB8-4858-961E-36E96A970D40}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{81BDD4B6-9DB8-4858-961E-36E96A970D40}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{81BDD4B6-9DB8-4858-961E-36E96A970D40}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{81BDD4B6-9DB8-4858-961E-36E96A970D40}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{81BDD4B6-9DB8-4858-961E-36E96A970D40}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{81BDD4B6-9DB8-4858-961E-36E96A970D40}.Release|Any CPU.Build.0 = Release|Any CPU
+		{81BDD4B6-9DB8-4858-961E-36E96A970D40}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F2D5249C-833F-418A-AC2D-942E4B507471}
+	EndGlobalSection
+EndGlobal
